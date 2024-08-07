@@ -41,7 +41,7 @@ After rightsizing your compute service, you can typically enable autoscaling to 
 
 ### Using spot instances
 
-This is a type of VM instances that can be terminated at any time when resources need to be reallocated for other tasks. Because of this, spot VMs are offered at a much lower price with cost reductions of up to 90% as it makes use of unused compute capacity. Spot VMs are suitable for fault-tolerant, stateless and flexible workloads that can handle interruptions but don't need to be completed at a specific time. Examples of these types of workloads include CI/CD jobs or batch processing jobs and more but it's not recommended for other types of workloads. 
+This is a type of VM instance that can be terminated at any time when resources need to be reallocated for other tasks. Because of this, spot VMs are offered at a much lower price with cost reductions of up to 90% as they makes use of unused compute capacity. Spot VMs are suitable for fault-tolerant, stateless and flexible workloads that can handle interruptions but don't need to be completed at a specific time. Examples of these types of workloads include CI/CD jobs or batch processing jobs and more but it's not recommended for other types of workloads. 
 
 Examples of different spot VMs:
 
